@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Vedant</a></h1>
-<h3 align="center">A passionate Big Data developer from India </h3>
+<h3 align="center">A passionate Big Data developer And Automation tester from India </h3>
 
 
 I am Vedant Chimmad,working as Data Engineer In Tata Consultancy Service. I have good technical knowledge on **AWS Cloud Data Platform** & building data pipline from different services. Feel free to connect with me here:
